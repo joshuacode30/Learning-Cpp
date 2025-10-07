@@ -20,14 +20,14 @@ int main() {
     string surname;
     int age;
 
-    cout<<"Enter your name:"<<"\n";
+    cout<<"Enter your name:\n";
     cin>>name;
-    cout<<"Enter your surname:"<<"\n";
+    cout<<"Enter your surname:\n";
     cin>>surname;
-    cout<<"Enter your age:"<<"\n";
+    cout<<"Enter your age:\n";
     cin>>age;
 
-    cout<<"Hello "<<name<<" "<<surname<<". "<<"You will be "<<age + 1<<" years old soon!"<<"\n";
+    cout<<"Hello "<<name<<" "<<surname<<". "<<"You will be "<<age + 1<<" years old soon!\n";
 
     /*
     cannot use '' single quotes for a string but only for single characters like 'A' not 'AB'

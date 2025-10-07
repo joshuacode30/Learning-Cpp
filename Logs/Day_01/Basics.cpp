@@ -9,6 +9,6 @@ int main() {
     This is a 
     multi-line comment 
     */
-    cout << "Hello world"<<"\n";
+    cout << "Hello world\n";
     return 0;
 }
